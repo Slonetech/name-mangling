@@ -28,8 +28,9 @@ Accessing items_list Again:
 The items_list of the instance is accessed and printed again. The output is ['a', 'b', 'c', 'd'].
 Code Output:
 
-`['a', 'b'] /n
-['a', 'b', 'c', 'd']`
+`['a', 'b']`
+
+`['a', 'b', 'c', 'd']`
 
 ## Key Points:
 
